@@ -4,7 +4,7 @@ DOM Inspector 2.0.12 for XULApp StarterKit.
 
 
 -----------------------------
-Download pre-build XPI in [downloads](https://github.com/racklin/xulapp-starterkit-addon-dominspector/tree/master/downloads)
+Download pre-build XPI in [download XPI](https://github.com/racklin/xulapp-starterkit-addon-dominspector/raw/master/downloads/xulapp-starterkit-addon-dominspector-2.0.12.xpi)
 
 
 Credits
